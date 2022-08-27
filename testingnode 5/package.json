@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "nedb": "^1.8.0"
+  },
+  "name": "testingnode5",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "me",
+  "license": "MIT"
+}

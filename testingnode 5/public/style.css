@@ -1,0 +1,54 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    margin-bottom: 35px;
+}
+
+.button {
+    font-size: 25px;
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: cadetblue;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: rgba(95, 158, 160, 0.737);
+}
+
+table, th, td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+th {
+    width: 100px;
+    height: 35px;
+}
+
+td {
+    height: 50px;
+}
+
+.table-button {
+    width: 100%;
+    height: 100%;
+    border: none;
+    color: white;
+    background-color: cadetblue;
+    cursor: pointer;
+}
+
+.table-button:hover {
+    background-color: rgba(95, 158, 160, 0.737);
+}
